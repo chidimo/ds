@@ -11,8 +11,11 @@ tornado = "*"
 ipykernel = "*"
 requests = "*"
 "beautifulsoup4" = "*"
+mplleaflet = "*"
+xlrd = "*"
 
 [dev-packages]
+pylint = "*"
 
 [requires]
 python_version = "3.6"
